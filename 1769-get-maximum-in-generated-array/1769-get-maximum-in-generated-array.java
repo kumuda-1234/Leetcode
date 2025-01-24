@@ -14,9 +14,6 @@ class Solution {
             if(2*i+1<=n && 2*i+1>=2)
             nums[2*i+1]=nums[i]+nums[i+1];
         
-             
-           
-        
         }
         int max=0;
         for(int i=0;i<n+1;i++)
