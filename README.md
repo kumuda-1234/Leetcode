@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1769-get-maximum-in-generated-array](https://github.com/kumuda-1234/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [2058-concatenation-of-array](https://github.com/kumuda-1234/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3625-stone-removal-game](https://github.com/kumuda-1234/Leetcode/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/kumuda-1234/Leetcode/tree/master/3651-transformed-array) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kumuda-1234/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kumuda-1234/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kumuda-1234/Leetcode/tree/master/0069-sqrtx) |
+| [3625-stone-removal-game](https://github.com/kumuda-1234/Leetcode/tree/master/3625-stone-removal-game) |
 ## String
 |  |
 | ------- |
