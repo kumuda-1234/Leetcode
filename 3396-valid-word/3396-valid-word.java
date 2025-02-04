@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
     public boolean isValid(String word) {
         int len=word.length();
         int i;
