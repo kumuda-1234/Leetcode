@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/kumuda-1234/Leetcode/tree/master/3429-special-array-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/kumuda-1234/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3651-transformed-array](https://github.com/kumuda-1234/Leetcode/tree/master/3651-transformed-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kumuda-1234/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/kumuda-1234/Leetcode/tree/master/3371-harshad-number) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/kumuda-1234/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/kumuda-1234/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3625-stone-removal-game](https://github.com/kumuda-1234/Leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/kumuda-1234/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## String
