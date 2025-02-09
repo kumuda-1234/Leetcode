@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kumuda-1234/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kumuda-1234/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kumuda-1234/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kumuda-1234/Leetcode/tree/master/0202-happy-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumuda-1234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kumuda-1234/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Stack
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kumuda-1234/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kumuda-1234/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kumuda-1234/Leetcode/tree/master/0202-happy-number) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/kumuda-1234/Leetcode/tree/master/3371-harshad-number) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kumuda-1234/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kumuda-1234/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kumuda-1234/Leetcode/tree/master/0202-happy-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
