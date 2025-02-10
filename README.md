@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kumuda-1234/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kumuda-1234/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/kumuda-1234/Leetcode/tree/master/0263-ugly-number) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/kumuda-1234/Leetcode/tree/master/3371-harshad-number) |
