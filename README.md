@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumuda-1234/Leetcode/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumuda-1234/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [3447-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1769-get-maximum-in-generated-array](https://github.com/kumuda-1234/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [2058-concatenation-of-array](https://github.com/kumuda-1234/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/kumuda-1234/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3625-stone-removal-game](https://github.com/kumuda-1234/Leetcode/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/kumuda-1234/Leetcode/tree/master/3651-transformed-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumuda-1234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3396-valid-word](https://github.com/kumuda-1234/Leetcode/tree/master/3396-valid-word) |
+| [3447-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
