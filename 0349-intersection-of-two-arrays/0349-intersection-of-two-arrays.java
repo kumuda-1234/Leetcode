@@ -18,6 +18,5 @@ class Solution {
             arr[index++]=ele;
         }
         return arr;
-        
     }
 }
