@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2792-neighboring-bitwise-xor](https://github.com/kumuda-1234/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/kumuda-1234/Leetcode/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kumuda-1234/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/kumuda-1234/Leetcode/tree/master/0055-jump-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumuda-1234/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [3334-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Monotonic Stack
 |  |
 | ------- |
