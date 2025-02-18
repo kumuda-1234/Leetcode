@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumuda-1234/Leetcode/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumuda-1234/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kumuda-1234/Leetcode/tree/master/0055-jump-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumuda-1234/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/kumuda-1234/Leetcode/tree/master/0067-add-binary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumuda-1234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3396-valid-word](https://github.com/kumuda-1234/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
@@ -207,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
