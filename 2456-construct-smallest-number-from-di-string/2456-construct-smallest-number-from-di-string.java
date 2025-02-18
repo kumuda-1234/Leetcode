@@ -1,4 +1,3 @@
-
 class Solution {
     public String smallestNumber(String pattern) {
         StringBuilder ans = new StringBuilder("1");
@@ -20,4 +19,3 @@ class Solution {
         return ans.append(temp).toString();
     }
 }
-
