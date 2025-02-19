@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/kumuda-1234/Leetcode/tree/master/3371-harshad-number) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/kumuda-1234/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kumuda-1234/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/kumuda-1234/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/kumuda-1234/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/kumuda-1234/Leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/kumuda-1234/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3396-valid-word](https://github.com/kumuda-1234/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3447-clear-digits) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/kumuda-1234/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Bit Manipulation
 |  |
 | ------- |
