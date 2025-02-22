@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-get-maximum-in-generated-array](https://github.com/kumuda-1234/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kumuda-1234/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/kumuda-1234/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kumuda-1234/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumuda-1234/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kumuda-1234/Leetcode/tree/master/0263-ugly-number) |
 | [1635-number-of-good-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kumuda-1234/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
