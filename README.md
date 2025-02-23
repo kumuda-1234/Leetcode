@@ -229,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/kumuda-1234/Leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
