@@ -6,7 +6,8 @@ class Solution {
         
         for (int i = 2; i< n; i++) 
         {
-            int start = 0, end = i - 1;
+            int start = 0;
+            int end = i - 1;
             while (start < end) 
             {
                 int pairSum = arr[start] + arr[end];
