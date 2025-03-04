@@ -1,4 +1,3 @@
-
 class Solution {
     public boolean checkPowersOfThree(int n) {
         int exp=16;
