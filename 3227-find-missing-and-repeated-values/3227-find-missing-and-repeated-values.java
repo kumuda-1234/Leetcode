@@ -1,4 +1,4 @@
- class Solution {
+class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         int ans[]=new int[2];
        
@@ -44,18 +44,3 @@
         
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
