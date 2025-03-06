@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kumuda-1234/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2792-neighboring-bitwise-xor](https://github.com/kumuda-1234/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3227-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kumuda-1234/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kumuda-1234/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kumuda-1234/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/kumuda-1234/Leetcode/tree/master/3371-harshad-number) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/kumuda-1234/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumuda-1234/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kumuda-1234/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [3227-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
