@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kumuda-1234/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumuda-1234/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/kumuda-1234/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2358-number-of-ways-to-split-array](https://github.com/kumuda-1234/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kumuda-1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2358-number-of-ways-to-split-array](https://github.com/kumuda-1234/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Dynamic Programming
 |  |
 | ------- |
