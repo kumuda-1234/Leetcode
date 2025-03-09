@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kumuda-1234/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/kumuda-1234/Leetcode/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kumuda-1234/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/kumuda-1234/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3651-transformed-array](https://github.com/kumuda-1234/Leetcode/tree/master/3651-transformed-array) |
@@ -308,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kumuda-1234/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
