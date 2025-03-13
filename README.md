@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kumuda-1234/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/kumuda-1234/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/kumuda-1234/Leetcode/tree/master/3651-transformed-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kumuda-1234/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kumuda-1234/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kumuda-1234/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/kumuda-1234/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [3643-zero-array-transformation-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kumuda-1234/Leetcode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3643-zero-array-transformation-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Enumeration
 |  |
 | ------- |
