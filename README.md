@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kumuda-1234/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kumuda-1234/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/kumuda-1234/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/kumuda-1234/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumuda-1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
