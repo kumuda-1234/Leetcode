@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
     public int[] countBits(int n) {
         int[] dp = new int[n + 1];
         int sub = 1;
@@ -13,4 +13,4 @@ class Solution {
 
         return dp;        
     }
-}
+ }
