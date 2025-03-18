@@ -5,10 +5,8 @@ class Solution {
         int left = 0;
         int usedBits = 0;
         
-        for (int right = 0; right < n; right++) 
-        {
-            while ((usedBits & nums[right]) != 0) 
-            {
+        for (int right = 0; right < n; right++) {
+            while ((usedBits & nums[right]) != 0) {
                 usedBits ^= nums[left];
                 left++;
             }
