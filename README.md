@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kumuda-1234/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumuda-1234/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/kumuda-1234/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kumuda-1234/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumuda-1234/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kumuda-1234/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumuda-1234/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumuda-1234/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kumuda-1234/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -381,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/kumuda-1234/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kumuda-1234/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
@@ -395,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/kumuda-1234/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
