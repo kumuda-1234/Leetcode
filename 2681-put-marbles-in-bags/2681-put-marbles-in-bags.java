@@ -1,3 +1,4 @@
+
 class Solution {
     public long putMarbles(int[] weights, int k) {
         if (k == 1) {
