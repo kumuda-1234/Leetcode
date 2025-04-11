@@ -1,4 +1,3 @@
-
 class Solution {
     public int countSymmetricIntegers(int low, int high) {
         int count = 0;
