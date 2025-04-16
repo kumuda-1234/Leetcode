@@ -1,4 +1,4 @@
- class Solution {
+class Solution {
     public int reverse(int x) {
         long rev=0,rem;
         while(x!=0)
@@ -11,6 +11,9 @@
          return 0;
          if(x<0)
          return (int)(-1*rev);
-         return (int)rev;     
+         return (int)rev;
+
+    
+        
     }
 }
