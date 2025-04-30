@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kumuda-1234/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/kumuda-1234/Leetcode/tree/master/1656-count-good-triplets) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/kumuda-1234/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kumuda-1234/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/kumuda-1234/Leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/1635-number-of-good-pairs) |
