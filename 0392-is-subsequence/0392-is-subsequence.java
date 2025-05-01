@@ -11,9 +11,10 @@ class Solution {
             {
                 i++;
             }
-            j++;
-
+            j++; 
         }
        return i==l1; 
     }
 }
+
+
