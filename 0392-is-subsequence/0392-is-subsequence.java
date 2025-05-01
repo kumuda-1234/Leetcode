@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
     public boolean isSubsequence(String s, String t) {
         int i,j;
         i=0;
@@ -11,10 +11,12 @@ class Solution {
             {
                 i++;
             }
-            j++; 
+            j++;
+
         }
        return i==l1; 
     }
 }
+
 
 
