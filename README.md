@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/kumuda-1234/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/kumuda-1234/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/kumuda-1234/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/kumuda-1234/Leetcode/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumuda-1234/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/kumuda-1234/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/kumuda-1234/Leetcode/tree/master/0890-lemonade-change) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kumuda-1234/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/kumuda-1234/Leetcode/tree/master/0724-find-pivot-index) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/kumuda-1234/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/kumuda-1234/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
