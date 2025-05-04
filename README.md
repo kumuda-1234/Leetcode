@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/kumuda-1234/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/kumuda-1234/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kumuda-1234/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/kumuda-1234/Leetcode/tree/master/0575-distribute-candies) |
 | [0768-partition-labels](https://github.com/kumuda-1234/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1319-unique-number-of-occurrences](https://github.com/kumuda-1234/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kumuda-1234/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/kumuda-1234/Leetcode/tree/master/1500-count-largest-group) |
