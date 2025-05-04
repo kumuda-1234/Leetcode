@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kumuda-1234/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/kumuda-1234/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kumuda-1234/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumuda-1234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kumuda-1234/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumuda-1234/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kumuda-1234/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumuda-1234/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/kumuda-1234/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/kumuda-1234/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kumuda-1234/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kumuda-1234/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kumuda-1234/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/kumuda-1234/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumuda-1234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kumuda-1234/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumuda-1234/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kumuda-1234/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumuda-1234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kumuda-1234/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
