@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/kumuda-1234/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/kumuda-1234/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/kumuda-1234/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/kumuda-1234/Leetcode/tree/master/0643-maximum-average-subarray-i) |
