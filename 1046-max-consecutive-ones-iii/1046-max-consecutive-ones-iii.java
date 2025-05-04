@@ -5,10 +5,11 @@ class Solution {
         int zeroCount = 0;
         int maxLen = 0;
 
-        while (right < nums.length) {
-            if (nums[right] == 0) {
+        while (right < nums.length) 
+        {
+            if (nums[right] == 0) 
                 zeroCount++;
-            }
+            
             while (zeroCount > k)
             {
                 if (nums[left] == 0) 
