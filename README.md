@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumuda-1234/Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/kumuda-1234/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kumuda-1234/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumuda-1234/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/kumuda-1234/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/kumuda-1234/Leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/kumuda-1234/Leetcode/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kumuda-1234/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kumuda-1234/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kumuda-1234/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/kumuda-1234/Leetcode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/kumuda-1234/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
