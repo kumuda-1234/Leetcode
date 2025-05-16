@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumuda-1234/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kumuda-1234/Leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/kumuda-1234/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/kumuda-1234/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/kumuda-1234/Leetcode/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kumuda-1234/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/kumuda-1234/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/kumuda-1234/Leetcode/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kumuda-1234/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/kumuda-1234/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
