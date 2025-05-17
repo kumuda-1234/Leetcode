@@ -11,11 +11,15 @@ class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root == null) return null;
         //p & q agar diff branch m hua toh root is the ans
-        if(root == p || root == q) return root;
+        if(root == p || root == q) 
+        return root;
         TreeNode left = lowestCommonAncestor(root.left, p, q);
         TreeNode right = lowestCommonAncestor(root.right, p , q);
-        if(right!= null && left!=null) return root;
-        else if(left == null) return right;
-        else return left;
+        if(right!= null && left!=null) 
+        return root;
+        else if(left == null) 
+        return right;
+        else 
+        return left;
     }
 }
