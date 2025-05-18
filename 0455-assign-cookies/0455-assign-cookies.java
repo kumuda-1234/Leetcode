@@ -20,9 +20,9 @@ class Solution {
          }
          else
          j++;
-         max=Math.max(max,count);
+        
        }
-         return max;
+         return count;
         
     }
 }
