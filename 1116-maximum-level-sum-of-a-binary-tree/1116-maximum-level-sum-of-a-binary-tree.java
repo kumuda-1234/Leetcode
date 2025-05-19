@@ -14,28 +14,29 @@
  * }
  */
 class Solution {
-    public int level(TreeNode root){
-        if(root==null) return 0;
-        return 1 + Math.max(level(root.left),level(root.right));
-    }
-    public void levelOrder(TreeNode root,int currLvl,int level,int[] arr){
-        if(root==null) return;
-        arr[currLvl] += root.val;
-        levelOrder(root.left,currLvl+1,level,arr);
-        levelOrder(root.right,currLvl+1,level,arr);
-    }
     public int maxLevelSum(TreeNode root) {
-        int lvl = level(root);
-        int[] arr = new int[lvl];
-        levelOrder(root,0,lvl,arr);
-        int mx = Integer.MIN_VALUE;
-        int mxidx=0;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]>mx){
-                mx = arr[i];
-                mxidx=i;
+        int lev = 1;
+        if(root == null)return 0;
+        Queue<TreeNode> queue = new LinkedList<>();
+        int max = Integer.MIN_VALUE;
+        queue.add(root);
+        int level = 1;
+        while(!queue.isEmpty()){
+            int size = queue.size();
+            int sum =0;
+            while(size>0){
+                TreeNode  nn = queue.remove();
+                sum = sum + nn.val;
+                if(nn.left != null) queue.add(nn.left);
+                if(nn.right != null) queue.add(nn.right);
+                size--;
             }
+            if(max < sum){
+                max = sum;
+                lev = level;
+            }
+            level++;
         }
-        return mxidx + 1;
+        return lev;
     }
 }
