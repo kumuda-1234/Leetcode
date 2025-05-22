@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kumuda-1234/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kumuda-1234/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/kumuda-1234/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kumuda-1234/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kumuda-1234/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kumuda-1234/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/kumuda-1234/Leetcode/tree/master/1036-rotting-oranges) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kumuda-1234/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumuda-1234/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumuda-1234/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kumuda-1234/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kumuda-1234/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kumuda-1234/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/kumuda-1234/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
