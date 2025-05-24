@@ -7,20 +7,11 @@ class Solution {
         Arrays.sort(pairs, (x, y) -> y.b - x.b);
         Queue<Integer> q = new PriorityQueue<>(k+1);
         long res = 0, sum = 0;
-
-        int i = 0;
-        for (; i < k; i++) {
-            int x = pairs[i].a;
-            sum += x;
-            q.add(x);
-        }
-        res = Math.max(res, sum * pairs[i-1].b);
-
-        for (; i < n; i++) {
-            q.add(pairs[i].a);
-            sum += pairs[i].a;
-            sum -= q.poll();
-            res = Math.max(res, sum * pairs[i].b);
+        for (var p : pairs) {
+            q.add(p.a);
+            sum += p.a;
+            if (q.size() > k) sum -= q.poll();
+            if (q.size() == k) res = Math.max(res, sum * p.b);
         }
         return res;
     }
