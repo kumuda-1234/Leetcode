@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/kumuda-1234/Leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/kumuda-1234/Leetcode/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kumuda-1234/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kumuda-1234/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kumuda-1234/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kumuda-1234/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumuda-1234/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
