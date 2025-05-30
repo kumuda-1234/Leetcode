@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/kumuda-1234/Leetcode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/kumuda-1234/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kumuda-1234/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kumuda-1234/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kumuda-1234/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/kumuda-1234/Leetcode/tree/master/0575-distribute-candies) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kumuda-1234/Leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/kumuda-1234/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kumuda-1234/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kumuda-1234/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kumuda-1234/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/kumuda-1234/Leetcode/tree/master/0649-dota2-senate) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/kumuda-1234/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kumuda-1234/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kumuda-1234/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kumuda-1234/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
