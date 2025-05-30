@@ -1,17 +1,16 @@
 class Solution {
+    public int backtrack(int r  , int c  , int m  , int  n,int [][] memo){
+           if(r==m-1 && c== n-1) return 1;
+           if(r>=m ||c>=n) return 0;
+           if(memo[r][c]!=-1) return memo[r][c];
+           int ll  = backtrack(r+1,c,m,n,memo);
+          int  rr  = backtrack(r,c+1,m,n,memo);
+           memo[r][c]=  ll+rr;
+           return memo[r][c];
+    }
     public int uniquePaths(int m, int n) {
-        int[] aboveRow = new int[n];
-        Arrays.fill(aboveRow, 1);
-
-        for (int row = 1; row < m; row++) {
-            int[] currentRow = new int[n];
-            Arrays.fill(currentRow, 1);
-            for (int col = 1; col < n; col++) {
-                currentRow[col] = currentRow[col - 1] + aboveRow[col];
-            }
-            aboveRow = currentRow;
-        }
-
-        return aboveRow[n - 1];        
+        int[][] memo  = new int[m][n];
+        for(int []  row  :  memo) Arrays.fill(row,-1);
+         return backtrack(0,0,m,n,memo);
     }
 }
