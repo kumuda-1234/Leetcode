@@ -1,27 +1,44 @@
-class StockSpanner {
-    // Stack to store pairs of [price, span]
-    private Stack<int[]> st;
+// Helper class for inserting into stack
+class Pair {
+    int value;
+    int ind;
 
-    public StockSpanner() {
-        st = new Stack<>();
-    }
-    
-    public int next(int price) {
-        int cnt = 1; // Span starts at 1 (current day)
-
-        // Pop all prices from stack that are less than or equal to current price
-        while (!st.isEmpty() && price >= st.peek()[0]){
-            // Add their span to current span
-            cnt += st.pop()[1];
-        }
-
-        // Push the current price and its total span onto the stack
-        st.push(new int[]{price, cnt});
-
-        // Return the span for current price
-        return cnt;
+    public Pair(int valuePrice, int index){
+        this.value = valuePrice;
+        this.ind = index;
     }
 }
+
+// Main class
+class StockSpanner {
+    Stack<Pair> stk = new Stack<>(); // Monotonic stack to store next greater elements of a particular index when inserted
+    int index = -1;
+
+    public StockSpanner() {
+        // Re-initialize everything for the new object
+        index = -1;
+        stk.clear();
+    }
+
+    public int next(int price) {
+        // Check for the stack to provide the right answer
+        
+        index += 1; // Move to next index
+        while (!stk.isEmpty() && stk.peek().value <= price) {
+            stk.pop();
+        }
+        int ans = index - (stk.isEmpty() ? -1 : stk.peek().ind); // Compute answer with Next Greater element
+
+        Pair pairToInsert = new Pair(price, index);
+        stk.push(pairToInsert); // For upcoming elements
+        return ans;
+    }
+}
+
+/**
+TC: O(2N) -> O(N)
+SC: O(N)
+*/
 
 /**
  * Your StockSpanner object will be instantiated and called as such:
