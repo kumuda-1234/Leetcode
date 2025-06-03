@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kumuda-1234/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kumuda-1234/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kumuda-1234/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kumuda-1234/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kumuda-1234/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kumuda-1234/Leetcode/tree/master/0202-happy-number) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/kumuda-1234/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kumuda-1234/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/kumuda-1234/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kumuda-1234/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumuda-1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kumuda-1234/Leetcode/tree/master/0198-house-robber) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kumuda-1234/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
