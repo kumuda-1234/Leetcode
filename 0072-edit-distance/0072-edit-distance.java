@@ -1,23 +1,34 @@
 class Solution {
-  public int minDistance(String word1, String word2) {
-    final int m = word1.length();//first word length
-    final int n = word2.length();///second word length
-    // dp[i][j] := min # of operations to convert word1[0..i) to word2[0..j)
-    int[][] dp = new int[m + 1][n + 1];
+    //memorization 
+    public int minDistance(String s1, String s2) {
+        int m = s1.length();
+        int n = s2.length();
+        int dp[][] = new int[m + 1][n + 1];
+        for(int row []:dp ){
+            Arrays.fill(row,-1);
+        }
 
-    for (int i = 1; i <= m; ++i)
-      dp[i][0] = i;
+        return path(m , n ,s1, s2,dp);
+        
+    }
+    public int path(int i , int j,String s1,String s2,int dp[][]){
 
-    for (int j = 1; j <= n; ++j)
-      dp[0][j] = j;
+        if(i == 0) return j;
+        if(j == 0) return i;
 
-    for (int i = 1; i <= m; ++i)
-      for (int j = 1; j <= n; ++j)
-        if (word1.charAt(i - 1) == word2.charAt(j - 1))//same characters
-          dp[i][j] = dp[i - 1][j - 1];//no operation
-        else
-          dp[i][j] = Math.min(dp[i - 1][j - 1], Math.min(dp[i - 1][j], dp[i][j - 1])) + 1;                      //replace               //delete        //insert
+        if(dp[i][j] != -1){
+            return dp[i][j];
+        }
 
-    return dp[m][n];
-  }
+        if(s1.charAt(i-1) == s2.charAt(j-1))
+        return dp[i][j] =  path(i-1, j-1 , s1, s2,dp);
+         
+
+         // Characters don't match: choose min of insert, delete, or replace
+        int insert = path(i, j - 1, s1, s2, dp);
+        int delete = path(i - 1, j, s1, s2, dp);
+        int replace = path(i - 1, j - 1, s1, s2, dp);
+
+        return dp[i][j] = 1 + Math.min(insert, Math.min(delete, replace));
+    }
 }
