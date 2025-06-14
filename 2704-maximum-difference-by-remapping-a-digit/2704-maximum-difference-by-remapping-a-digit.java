@@ -1,31 +1,20 @@
 class Solution {
     public int minMaxDifference(int num) {
-        String str = String.valueOf(num);
-        int i=0;
-        while(i<str.length() && str.charAt(i)=='9') i++;
-        int maxD;
-        if(i==str.length()) maxD=9;
-        else maxD=str.charAt(i)-48;
-        int minD=str.charAt(0)-48;
-        int min=0;
-        int max=0,d,c=1;
-        while(num>0){
-            d=num%10;
-            if(d==maxD){
-                max+=c*9;
-                min+=c*d;
-            }
-            if(d==minD){
-                min+=c*0;
-                max+=c*d;
-            }
-            else{
-                min+=c*d;
-                max+=c*d;
-            }
-            num/=10;
-            c*=10;
+        String s = Integer.toString(num);
+        char ch = '\0';
+        for (char c : s.toCharArray()) if (c != '9') { ch = c; break; }
+        String mx;
+        if (ch != '\0') {
+            StringBuilder sb = new StringBuilder();
+            for (char c : s.toCharArray()) sb.append(c == ch ? '9' : c);
+            mx = sb.toString();
+        } else {
+            mx = s;
         }
-        return max-min;
+        char ch0 = s.charAt(0);
+        StringBuilder sb2 = new StringBuilder();
+        for (char c : s.toCharArray()) sb2.append(c == ch0 ? '0' : c);
+        String mn = sb2.toString();
+        return Integer.parseInt(mx) - Integer.parseInt(mn);
     }
 }
