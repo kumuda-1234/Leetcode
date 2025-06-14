@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/kumuda-1234/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/kumuda-1234/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kumuda-1234/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/kumuda-1234/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2792-neighboring-bitwise-xor](https://github.com/kumuda-1234/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/kumuda-1234/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/kumuda-1234/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kumuda-1234/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kumuda-1234/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/kumuda-1234/Leetcode/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-zero-array-transformation-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Enumeration
