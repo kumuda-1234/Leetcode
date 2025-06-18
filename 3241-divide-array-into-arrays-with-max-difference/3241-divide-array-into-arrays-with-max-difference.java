@@ -1,4 +1,4 @@
-class Solution {
+  class Solution {
     public int[][] divideArray(int[] nums, int k) {
         // 1. Sort the LEGO bricks! \U0001f9f1 -> \U0001f9f1\U0001f9f1\U0001f9f1 (smallest to largest)
         Arrays.sort(nums);
