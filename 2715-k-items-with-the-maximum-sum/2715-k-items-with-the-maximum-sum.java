@@ -12,8 +12,6 @@ class Solution {
         int sum=numOnes-NegOnes;
          return sum;
         
-            
-                
-            
+         
     }
 }
