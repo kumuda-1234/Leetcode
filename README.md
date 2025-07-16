@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/kumuda-1234/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/kumuda-1234/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kumuda-1234/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/kumuda-1234/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/kumuda-1234/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kumuda-1234/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/kumuda-1234/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/kumuda-1234/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
