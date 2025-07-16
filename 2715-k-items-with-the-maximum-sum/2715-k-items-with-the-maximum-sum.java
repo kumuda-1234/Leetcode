@@ -6,12 +6,10 @@ class Solution {
         {
             if(k<=numZeros+numOnes)
             return numOnes;
-            
         }
         int NegOnes=k-(numOnes+numZeros);
         int sum=numOnes-NegOnes;
          return sum;
         
-         
     }
 }
