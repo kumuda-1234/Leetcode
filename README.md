@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumuda-1234/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/kumuda-1234/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kumuda-1234/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kumuda-1234/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/kumuda-1234/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/kumuda-1234/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/kumuda-1234/Leetcode/tree/master/0412-fizz-buzz) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kumuda-1234/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kumuda-1234/Leetcode/tree/master/0319-bulb-switcher) |
 ## Linked List
 |  |
 | ------- |
