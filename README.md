@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kumuda-1234/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/kumuda-1234/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/kumuda-1234/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumuda-1234/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kumuda-1234/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kumuda-1234/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/kumuda-1234/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/kumuda-1234/Leetcode/tree/master/0575-distribute-candies) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kumuda-1234/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/kumuda-1234/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/kumuda-1234/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kumuda-1234/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kumuda-1234/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kumuda-1234/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/kumuda-1234/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/kumuda-1234/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kumuda-1234/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kumuda-1234/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/kumuda-1234/Leetcode/tree/master/0326-power-of-three) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kumuda-1234/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/kumuda-1234/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kumuda-1234/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -513,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kumuda-1234/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kumuda-1234/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/kumuda-1234/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kumuda-1234/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kumuda-1234/Leetcode/tree/master/0367-valid-perfect-square) |
