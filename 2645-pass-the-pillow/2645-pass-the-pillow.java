@@ -1,22 +1,17 @@
-
 class Solution {
     public int passThePillow(int n, int time) {
-         if (n == 1) 
-            return 1;
-        int cycleLength = 2 * (n - 1);
-         int effectiveTime = time % cycleLength;
-         if (effectiveTime < (n - 1)) 
-            
-            return 1 + effectiveTime;
-         else 
-         {
-            int stepsBackward = effectiveTime - (n - 1);
-            
-            return n - stepsBackward;
+        int count=0;
+        int pos=1;
+        int num=1;
+        for(count=0;count<=time;count++)
+        {
+            if(num==n)
+            pos=-1;
+            if(num==1)
+            pos=1;
+            num=num+pos;
 
-
-         }
-            
-        
+        }
+        return num-pos;
     }
 }
