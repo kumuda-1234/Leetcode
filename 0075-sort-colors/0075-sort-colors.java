@@ -19,7 +19,6 @@ class Solution {
             }
         }
 
-        
     }
     void swap(int nums[],int i,int j)
     {
