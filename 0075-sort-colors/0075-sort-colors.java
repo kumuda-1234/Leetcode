@@ -18,8 +18,7 @@ class Solution {
                 high--;
             }
         }
-
-        
+ 
     }
     void swap(int nums[],int i,int j)
     {
