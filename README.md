@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kumuda-1234/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kumuda-1234/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kumuda-1234/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kumuda-1234/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kumuda-1234/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kumuda-1234/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kumuda-1234/Leetcode/tree/master/0070-climbing-stairs) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kumuda-1234/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0191-number-of-1-bits) |
