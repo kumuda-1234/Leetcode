@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kumuda-1234/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kumuda-1234/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/kumuda-1234/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kumuda-1234/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kumuda-1234/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/kumuda-1234/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/kumuda-1234/Leetcode/tree/master/0441-arranging-coins) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kumuda-1234/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kumuda-1234/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/kumuda-1234/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/kumuda-1234/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kumuda-1234/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kumuda-1234/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kumuda-1234/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kumuda-1234/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kumuda-1234/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kumuda-1234/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/kumuda-1234/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
