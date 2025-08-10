@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kumuda-1234/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kumuda-1234/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kumuda-1234/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kumuda-1234/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kumuda-1234/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/kumuda-1234/Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/kumuda-1234/Leetcode/tree/master/0735-asteroid-collision) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kumuda-1234/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/kumuda-1234/Leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kumuda-1234/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
