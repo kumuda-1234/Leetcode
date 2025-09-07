@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/kumuda-1234/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kumuda-1234/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kumuda-1234/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumuda-1234/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kumuda-1234/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kumuda-1234/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kumuda-1234/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/kumuda-1234/Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kumuda-1234/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/kumuda-1234/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
