@@ -10,7 +10,6 @@ class Solution {
             if(map.get(i)>nums.length/2)
             return i;
         }
-        return -1;
-      
+      return -1;
     }
 }
