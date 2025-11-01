@@ -1,7 +1,5 @@
 class Solution {
     public int findMin(int[] nums) {
-       
-        
         int left,right;
         left=0;
         right=nums.length-1;
@@ -18,9 +16,5 @@ class Solution {
         }
         return nums[right];
 
-        
-    
-
-        
     }
 }
