@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kumuda-1234/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumuda-1234/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kumuda-1234/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kumuda-1234/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/kumuda-1234/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumuda-1234/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kumuda-1234/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kumuda-1234/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/kumuda-1234/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/kumuda-1234/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kumuda-1234/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
