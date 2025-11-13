@@ -9,35 +9,17 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        HashMap<TreeNode,TreeNode> map = new HashMap<>();
-        Queue<TreeNode> qu = new LinkedList<>();
-        qu.add(root);
-        map.put(root,null);
-        while(!qu.isEmpty()){
-            int size = qu.size();
-            for(int i=0;i<size;i++){
-                TreeNode curr = qu.poll();
-                if(curr.left!=null){
-                    qu.add(curr.left);
-                    map.put(curr.left,curr);
-                }
-                if(curr.right!=null){
-                    qu.add(curr.right);
-                    map.put(curr.right,curr);
-                }
-            }
-        }
-        int x = p.val;
-        int y = q.val;
-        HashSet<TreeNode> set = new HashSet<>();
-        while(p!=null){
-            set.add(p);
-            p=map.getOrDefault(p,null);
-        }
-        while(!set.contains(q)){
-            q=map.getOrDefault(q,null);
-        }
-        return q;
-        
+        if(root == null) return null;
+        //p & q agar diff branch m hua toh root is the ans
+        if(root == p || root == q) 
+        return root;
+        TreeNode left = lowestCommonAncestor(root.left, p, q);
+        TreeNode right = lowestCommonAncestor(root.right, p , q);
+        if(right!= null && left!=null) 
+        return root;
+        else if(left == null) 
+        return right;
+        else 
+        return left;
     }
 }
