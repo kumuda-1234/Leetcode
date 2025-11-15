@@ -1,18 +1,23 @@
 class Solution {
     public double myPow(double x, int n) {
-        if(x!=0||n>0)
-        {
-           
-            double s=Math.pow(x,n);
-            if(x>=-Math.pow(10, 4)&&x<=Math.pow(10, 4))
-            {
-                if(n<=Integer.MAX_VALUE&&n>=Integer.MIN_VALUE)
-                {
-                    return s;
-                }
-            }
-            return 0;
+        
+        if(n < 0){
+            n = -n;
+            x = 1 / x;
         }
-        return 0;
+        
+        double pow = 1;
+        
+        while(n != 0){
+            if((n & 1) != 0){
+                pow *= x;
+            } 
+                
+            x *= x;
+            n >>>= 1;
+            
+        }
+        
+        return pow;
     }
 }
