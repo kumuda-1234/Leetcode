@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kumuda-1234/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kumuda-1234/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kumuda-1234/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3745-maximize-expression-of-three-elements](https://github.com/kumuda-1234/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kumuda-1234/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/kumuda-1234/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/kumuda-1234/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3745-maximize-expression-of-three-elements](https://github.com/kumuda-1234/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/kumuda-1234/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kumuda-1234/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3745-maximize-expression-of-three-elements](https://github.com/kumuda-1234/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kumuda-1234/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/kumuda-1234/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/kumuda-1234/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/kumuda-1234/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
