@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kumuda-1234/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kumuda-1234/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/kumuda-1234/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumuda-1234/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/kumuda-1234/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/kumuda-1234/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/kumuda-1234/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3430-count-days-without-meetings](https://github.com/kumuda-1234/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kumuda-1234/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3731-find-missing-elements](https://github.com/kumuda-1234/Leetcode/tree/master/3731-find-missing-elements) |
