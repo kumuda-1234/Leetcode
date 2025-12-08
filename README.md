@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3151-special-array-i](https://github.com/kumuda-1234/Leetcode/tree/master/3151-special-array-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kumuda-1234/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kumuda-1234/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
