@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumuda-1234/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kumuda-1234/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kumuda-1234/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/kumuda-1234/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## String Matching
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/kumuda-1234/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kumuda-1234/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1916-find-center-of-star-graph](https://github.com/kumuda-1234/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kumuda-1234/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kumuda-1234/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kumuda-1234/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/kumuda-1234/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kumuda-1234/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kumuda-1234/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kumuda-1234/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kumuda-1234/Leetcode/tree/master/0399-evaluate-division) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kumuda-1234/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kumuda-1234/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
