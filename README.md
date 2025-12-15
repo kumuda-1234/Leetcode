@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/kumuda-1234/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kumuda-1234/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3151-special-array-i](https://github.com/kumuda-1234/Leetcode/tree/master/3151-special-array-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2715-k-items-with-the-maximum-sum](https://github.com/kumuda-1234/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/kumuda-1234/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/kumuda-1234/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/kumuda-1234/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kumuda-1234/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
