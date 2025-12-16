@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3024-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3151-special-array-i](https://github.com/kumuda-1234/Leetcode/tree/master/3151-special-array-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3024-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3321-type-of-triangle) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/kumuda-1234/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2998-count-symmetric-integers](https://github.com/kumuda-1234/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3024-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3024-type-of-triangle) |
 | [3055-maximum-odd-binary-number](https://github.com/kumuda-1234/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kumuda-1234/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kumuda-1234/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
