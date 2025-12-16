@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2619-categorize-box-according-to-criteria](https://github.com/kumuda-1234/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2645-pass-the-pillow](https://github.com/kumuda-1234/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kumuda-1234/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2652-sum-multiples](https://github.com/kumuda-1234/Leetcode/tree/master/2652-sum-multiples) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kumuda-1234/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/kumuda-1234/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
