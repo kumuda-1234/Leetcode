@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/kumuda-1234/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2643-row-with-maximum-ones](https://github.com/kumuda-1234/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kumuda-1234/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2681-put-marbles-in-bags](https://github.com/kumuda-1234/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kumuda-1234/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-equal-row-and-column-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2643-row-with-maximum-ones](https://github.com/kumuda-1234/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/kumuda-1234/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
