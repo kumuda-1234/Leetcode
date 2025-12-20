@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kumuda-1234/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumuda-1234/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kumuda-1234/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kumuda-1234/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kumuda-1234/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumuda-1234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kumuda-1234/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kumuda-1234/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kumuda-1234/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kumuda-1234/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kumuda-1234/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1610-xor-operation-in-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kumuda-1234/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2683-neighboring-bitwise-xor](https://github.com/kumuda-1234/Leetcode/tree/master/2683-neighboring-bitwise-xor) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/kumuda-1234/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumuda-1234/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kumuda-1234/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kumuda-1234/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kumuda-1234/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
