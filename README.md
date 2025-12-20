@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kumuda-1234/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kumuda-1234/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kumuda-1234/Leetcode/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kumuda-1234/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/kumuda-1234/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kumuda-1234/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/kumuda-1234/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kumuda-1234/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kumuda-1234/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kumuda-1234/Leetcode/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kumuda-1234/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kumuda-1234/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kumuda-1234/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/kumuda-1234/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
