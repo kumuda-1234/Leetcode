@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/kumuda-1234/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/kumuda-1234/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/kumuda-1234/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/kumuda-1234/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2998-count-symmetric-integers](https://github.com/kumuda-1234/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3024-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3024-type-of-triangle) |
