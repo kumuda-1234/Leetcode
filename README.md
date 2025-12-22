@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/kumuda-1234/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kumuda-1234/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kumuda-1234/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2965-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3024-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3024-type-of-triangle) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kumuda-1234/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kumuda-1234/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2965-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kumuda-1234/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumuda-1234/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/kumuda-1234/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/kumuda-1234/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kumuda-1234/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2998-count-symmetric-integers](https://github.com/kumuda-1234/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3024-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3024-type-of-triangle) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/kumuda-1234/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2722-prime-in-diagonal](https://github.com/kumuda-1234/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/kumuda-1234/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
