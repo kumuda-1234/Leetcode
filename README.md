@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kumuda-1234/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3356-zero-array-transformation-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kumuda-1234/Leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3379-transformed-array](https://github.com/kumuda-1234/Leetcode/tree/master/3379-transformed-array) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/kumuda-1234/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumuda-1234/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/kumuda-1234/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kumuda-1234/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kumuda-1234/Leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kumuda-1234/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kumuda-1234/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
