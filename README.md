@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3174-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3174-clear-digits) |
 | [3447-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/kumuda-1234/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/kumuda-1234/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3174-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/kumuda-1234/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kumuda-1234/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/kumuda-1234/Leetcode/tree/master/3379-transformed-array) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/kumuda-1234/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3055-maximum-odd-binary-number](https://github.com/kumuda-1234/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3174-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/kumuda-1234/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/kumuda-1234/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3447-clear-digits) |
