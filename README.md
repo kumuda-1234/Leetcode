@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/kumuda-1234/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kumuda-1234/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kumuda-1234/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/kumuda-1234/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/kumuda-1234/Leetcode/tree/master/1036-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kumuda-1234/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumuda-1234/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kumuda-1234/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/kumuda-1234/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kumuda-1234/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kumuda-1234/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1397-search-suggestions-system](https://github.com/kumuda-1234/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/kumuda-1234/Leetcode/tree/master/1646-kth-missing-positive-number) |
