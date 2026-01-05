@@ -7,6 +7,6 @@ class Solution {
             ones=(ones^nums[i])&~(twos);
             twos=(twos^nums[i])&~(ones);
         }
-       return ones; 
+        return ones;
     }
 }
