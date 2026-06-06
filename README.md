@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/kumuda-1234/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2574-left-and-right-sum-differences](https://github.com/kumuda-1234/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kumuda-1234/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kumuda-1234/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/kumuda-1234/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumuda-1234/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/kumuda-1234/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/kumuda-1234/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2574-left-and-right-sum-differences](https://github.com/kumuda-1234/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3356-zero-array-transformation-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kumuda-1234/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3643-zero-array-transformation-ii) |
