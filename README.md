@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kumuda-1234/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/kumuda-1234/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/kumuda-1234/Leetcode/tree/master/1025-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kumuda-1234/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kumuda-1234/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/kumuda-1234/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/kumuda-1234/Leetcode/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/kumuda-1234/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kumuda-1234/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/kumuda-1234/Leetcode/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/kumuda-1234/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/kumuda-1234/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Number Theory
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/kumuda-1234/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kumuda-1234/Leetcode/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/kumuda-1234/Leetcode/tree/master/1025-divisor-game) |
 ## Linked List
 |  |
 | ------- |
