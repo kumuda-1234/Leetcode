@@ -10,10 +10,8 @@ class Solution {
                 if(a==nums2[j]) 
                 {
                     index=j;
-
                 }
-                
-            
+              
             int nge = -1; 
             //now search for next greater element in nums2 
             for(int k=index+1; k<nums2.length; k++){
