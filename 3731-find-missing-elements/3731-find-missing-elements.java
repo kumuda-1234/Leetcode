@@ -9,13 +9,8 @@ class Solution {
             max=nums[i];
             if(min>nums[i])
             min=nums[i];
-
         }
         int cnt[]=new int[max+1];
-        for(int i=1;i<=max;i++)
-        {
-            cnt[i]=0;
-        }
         for(int i=0;i<nums.length;i++)
         {
             cnt[nums[i]]++;
