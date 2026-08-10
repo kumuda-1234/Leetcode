@@ -1,22 +1,19 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        int ans[]=new int[2];
-        HashMap <Integer,Integer> map=new HashMap<>();
-        for(int i=0;i<nums.length;i++)
+        int res1=0;
+        for(int num:nums)
         {
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+            res1=res1^num;
         }
-        int idx=0;
-        for(int i:map.keySet())
+        int res2=res1&-res1;
+        int a=0,b=0;
+        for(int num:nums)
         {
-            if(map.get(i)==1)
-            {
-                ans[idx]=i;
-                idx++;
-
-            }
-            
+            if((res2&num)!=0)
+            a=a^num;
+            else
+            b=b^num;
         }
-        return ans;
+        return new int[]{a,b};
     }
 }
