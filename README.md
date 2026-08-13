@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kumuda-1234/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kumuda-1234/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kumuda-1234/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/kumuda-1234/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/kumuda-1234/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kumuda-1234/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0283-move-zeroes) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/kumuda-1234/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1397-search-suggestions-system](https://github.com/kumuda-1234/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kumuda-1234/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kumuda-1234/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kumuda-1234/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/kumuda-1234/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/kumuda-1234/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/kumuda-1234/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kumuda-1234/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kumuda-1234/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumuda-1234/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/kumuda-1234/Leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/kumuda-1234/Leetcode/tree/master/0969-number-of-recent-calls) |
@@ -1003,10 +1007,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kumuda-1234/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/kumuda-1234/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Database
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/kumuda-1234/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kumuda-1234/Leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kumuda-1234/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kumuda-1234/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
