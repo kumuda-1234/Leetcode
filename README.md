@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kumuda-1234/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kumuda-1234/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3024-type-of-triangle](https://github.com/kumuda-1234/Leetcode/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kumuda-1234/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kumuda-1234/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3151-special-array-i](https://github.com/kumuda-1234/Leetcode/tree/master/3151-special-array-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kumuda-1234/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/kumuda-1234/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/kumuda-1234/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kumuda-1234/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kumuda-1234/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/kumuda-1234/Leetcode/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/kumuda-1234/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kumuda-1234/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
