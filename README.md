@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kumuda-1234/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/kumuda-1234/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/kumuda-1234/Leetcode/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/kumuda-1234/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kumuda-1234/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1045,4 +1046,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kumuda-1234/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/kumuda-1234/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
