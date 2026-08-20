@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kumuda-1234/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kumuda-1234/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kumuda-1234/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/kumuda-1234/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kumuda-1234/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kumuda-1234/Leetcode/tree/master/0055-jump-game) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kumuda-1234/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/kumuda-1234/Leetcode/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/kumuda-1234/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kumuda-1234/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kumuda-1234/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1039,4 +1041,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/kumuda-1234/Leetcode/tree/master/0881-boats-to-save-people) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kumuda-1234/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
