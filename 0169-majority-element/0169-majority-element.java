@@ -1,17 +1,18 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        int n=nums.length;
-        for(int i:nums)
+        //"Boyer-Moore Algorithm"
+        int count=0;
+        int candidate=nums[0];
+        for(int num:nums)
         {
-            map.put(i,map.getOrDefault(i,0)+1);
+            if(count==0)
+            candidate=num;
+             if(candidate == num)
+            count++;
+            else
+            count--;
         }
-        for(int i:map.keySet())
-        {
-            if(map.get(i)>n/2)
-            return i;
-        }
+        return candidate;
         
-        return -1;
     }
 }
