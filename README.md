@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kumuda-1234/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kumuda-1234/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumuda-1234/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kumuda-1234/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kumuda-1234/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kumuda-1234/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1397-search-suggestions-system](https://github.com/kumuda-1234/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumuda-1234/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kumuda-1234/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/kumuda-1234/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kumuda-1234/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
