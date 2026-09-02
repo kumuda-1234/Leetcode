@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/kumuda-1234/Leetcode/tree/master/1025-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kumuda-1234/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/kumuda-1234/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kumuda-1234/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kumuda-1234/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kumuda-1234/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kumuda-1234/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/kumuda-1234/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/kumuda-1234/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kumuda-1234/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kumuda-1234/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kumuda-1234/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kumuda-1234/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Geometry
