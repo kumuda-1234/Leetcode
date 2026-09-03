@@ -7,21 +7,9 @@
  * }
  */
 class Solution {
-    public void deleteNode(ListNode node) {
-        ListNode temp=node;
-        ListNode after;
-        while(temp.next.next!=null)
-        {
-            after=temp.next;
-            temp.val=after.val;
-            temp=temp.next;
-         
-        }
-        after=temp.next;
-        temp.val=after.val;
-        temp.next=null;
-
-
-        
+    public void deleteNode(ListNode node)
+    {
+        node.val = node.next.val;
+        node.next = node.next.next;
     }
 }
