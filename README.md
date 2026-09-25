@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/kumuda-1234/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kumuda-1234/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/kumuda-1234/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/kumuda-1234/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/kumuda-1234/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/kumuda-1234/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/kumuda-1234/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kumuda-1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/kumuda-1234/Leetcode/tree/master/0463-island-perimeter) |
+| [1020-number-of-enclaves](https://github.com/kumuda-1234/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/kumuda-1234/Leetcode/tree/master/1036-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/kumuda-1234/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kumuda-1234/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kumuda-1234/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/kumuda-1234/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/kumuda-1234/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1020-number-of-enclaves](https://github.com/kumuda-1234/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/kumuda-1234/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kumuda-1234/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/kumuda-1234/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/kumuda-1234/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/kumuda-1234/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/kumuda-1234/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kumuda-1234/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/kumuda-1234/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -1131,5 +1135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/kumuda-1234/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/kumuda-1234/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
